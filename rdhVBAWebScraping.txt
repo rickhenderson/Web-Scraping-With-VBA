@@ -1,4 +1,4 @@
-'''
+
 Sub Main()
     ' Use the web browser control to retrieve data from web pages
     Dim strResult As String
@@ -34,4 +34,3 @@ Function BasicRetrieve(strURL As String) As String
     ' Return the HTML code the entire page requested
     BasicRetrieve = XMLHTTP.ResponseText
 End Function
-'''
