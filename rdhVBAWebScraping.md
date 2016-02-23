@@ -1,4 +1,4 @@
-'''VBA
+'''
 Sub Main()
     ' Use the web browser control to retrieve data from web pages
     Dim strResult As String
